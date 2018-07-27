@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section {
+	width: 900px;
+	margin: 0 auto;
+}
